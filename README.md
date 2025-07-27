@@ -4,7 +4,11 @@ Facial recognition systems are crucial in biometric security, with applications 
 Finally you can see the algothirm accurately detect real face in live proctoring but it can distinguise the person which is in any picture or mobile phone to enhance the security while live proctoring. It can be applied to any of the scenarios where only real human face needs to be detected. 
 
 <img width="847" height="497" alt="image" src="https://github.com/user-attachments/assets/2ca55663-0b5a-4854-bf76-23a7c5700e27" /> 
+
 Face detect counts while live proctoring
 
+
+
 <img width="865" height="608" alt="image" src="https://github.com/user-attachments/assets/086e98dc-027a-4a81-9d92-ac45bb32075d" />
+
 Algorithm rightly detected live faces excluding person in cell phone
